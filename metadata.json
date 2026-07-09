@@ -1,0 +1,6 @@
+{
+  "name": "Anant One Hotel & Banquet",
+  "description": "A premium website for Anant One Hotel & Banquet in Ghaziabad featuring a responsive booking system, luxury room showcases, a banquet event planner, and a stunning photo gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
